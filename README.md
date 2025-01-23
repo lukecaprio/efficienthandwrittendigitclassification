@@ -14,11 +14,8 @@ The repository is organized as follows:
     - Comparing the performance of the KNN model with and without K-Means preprocessing.
     - Visualizing results using confusion matrices and accuracy metrics.
 
-- **`data/`** *(Optional: Include this if dataset-related files are provided)*  
-  - Directory for any pre-downloaded or processed data files used in the project.
-
-- **`requirements.txt`**  
-  - List of dependencies for setting up the project environment.
+- **`KNNKMEANSFINALPAPER.pdf`**  
+  - A comprehensive 12-page research report detailing the methodology, experiments, results, and analysis for the project. This document serves as the definitive explanation of the work conducted and its significance.
 
 ## Features
 
